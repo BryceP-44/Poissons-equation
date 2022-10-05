@@ -8,3 +8,5 @@ Use arrows, "W" and "S" to move around. It uses my 3d conversion file to plot th
 
 <br /><br />
 ![first test run](https://github.com/BryceP-44/Poissons-equation/blob/main/first%20test.PNG)
+![first test run](https://github.com/BryceP-44/Poissons-equation/blob/main/laplace%20sine%20boundaries.PNG)
+
