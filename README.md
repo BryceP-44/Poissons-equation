@@ -7,6 +7,12 @@ Use arrows, "W" and "S" to fly around. It uses my 3d conversion file to plot the
 
 
 <br /><br />
+first test run
 ![first test run](https://github.com/BryceP-44/Poissons-equation/blob/main/first%20test.PNG)
-![first test run](https://github.com/BryceP-44/Poissons-equation/blob/main/laplace%20sine%20boundaries.PNG)
+2 free ends 2 sine ends
+![free ends](https://github.com/BryceP-44/Poissons-equation/blob/main/2%20free%202%20sine%20boundaries.PNG)
+2 sine ends 2 ends at 0
+![saddle](https://github.com/BryceP-44/Poissons-equation/blob/main/laplace%20sine%20boundaries.PNG)
+
+
 
