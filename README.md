@@ -5,7 +5,7 @@ Solves Laplace equation, Poissons equation, wave equation, heat equation, field 
 You could vibrate a point in the middle if you want, pulse points along the boundary, throw electrons around. The limits are your imagination.<br />
 Use arrows, "W" and "S" to fly around. It uses my 3d conversion file to plot the 3d points on a 2d 1920x1080 plane
 <br />
-My secret is that the laplace and poisson equation is just basically taking the time limit as it approaches infinity of the 3d function which is also kind of the wave equation. By taking the limit at time of infinity, that's basically how I get rid of the time dependence (as long as it is at a steady state at t=inf). And this is the reason the divergence of the gradient of the potential function can satisfy the equation. A 2d version of Hooke's law is the governing equation which can discretely be substituted in for the laplacian of the potential. 
+My secret is that the laplace and poisson equation is just basically taking the time limit as it approaches infinity of the 3d function which is also kind of the wave equation. By taking the limit at time of infinity, that's basically how I get rid of the time dependence (as long as it is at a steady state at t=inf). And this is the reason the divergence of the gradient of the potential function can satisfy the equation. A 2d version of Hooke's law is the governing equation which can discretely be substituted in for the Laplacian of the potential. 
 
 <br /><br />
 first test run (wave3d1)
