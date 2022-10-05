@@ -12,6 +12,8 @@ first test run (wave3d1)
 <br />
 ![first test run](https://github.com/BryceP-44/Poissons-equation/blob/main/first%20test.PNG)
 <br />
+![wave equation](https://github.com/BryceP-44/Poissons-equation/blob/main/wave3d3gif.gif)
+<br />
 2 free ends 2 sine ends (wave3d2)
 <br />
 ![free ends](https://github.com/BryceP-44/Poissons-equation/blob/main/2%20free%202%20sine%20boundaries.PNG)
