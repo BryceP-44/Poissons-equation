@@ -54,7 +54,7 @@ off=100
 #create boundaries
 for j in range(length):
     coords[0][j][2]=0 #static
-    coords[length-1][j][2]=40*sin(j*pi/(length-1)) #useless code
+    coords[length-1][j][2]=40*sin(j*pi/(length-1))
 
 
 while True:
