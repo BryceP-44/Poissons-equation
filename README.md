@@ -24,9 +24,9 @@ first test run (wave3d1)
 <br />
 ![first test run](https://github.com/BryceP-44/Poissons-equation/blob/main/first%20test.PNG)
 <br />
-2 sine ends 2 ends at 0
+4 corners at 0 and the middle point at -200
 <br />
-![saddle](https://github.com/BryceP-44/Poissons-equation/blob/main/laplace%20sine%20boundaries.PNG)
+![saddle](https://github.com/BryceP-44/Poissons-equation/blob/main/3d5.PNG)
 
 
 
