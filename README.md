@@ -8,21 +8,27 @@ Use arrows, "W" and "S" to fly around. It uses my 3d conversion file to plot the
 My secret is that the laplace and poisson equation is just basically taking the time limit as it approaches infinity of the 3d function which is also kind of the wave equation. By taking the limit at time of infinity, that's basically how I get rid of the time dependence (as long as it is at a steady state at t=inf). And this is the reason the divergence of the gradient of the potential function can satisfy the equation. A 2d version of Hooke's law is the governing equation which can discretely be substituted in for the Laplacian of the potential. 
 
 <br /><br />
-first test run (wave3d1)
-<br />
-![first test run](https://github.com/BryceP-44/Poissons-equation/blob/main/first%20test.PNG)
-<br />
 2 free ends wave equation
 <br />
 ![wave equation](https://github.com/BryceP-44/Poissons-equation/blob/main/wave3d3gif.gif)
+<br />
+black hole
+<br />
+![black hole](https://github.com/BryceP-44/Poissons-equation/blob/main/black%20hole.PNG)
 <br />
 2 free ends 2 sine ends (wave3d2)
 <br />
 ![free ends](https://github.com/BryceP-44/Poissons-equation/blob/main/2%20free%202%20sine%20boundaries.PNG)
 <br />
+first test run (wave3d1)
+<br />
+![first test run](https://github.com/BryceP-44/Poissons-equation/blob/main/first%20test.PNG)
+<br />
 2 sine ends 2 ends at 0
 <br />
 ![saddle](https://github.com/BryceP-44/Poissons-equation/blob/main/laplace%20sine%20boundaries.PNG)
+
+
 
 
 
